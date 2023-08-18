@@ -37,4 +37,4 @@ In a modern day lab, a microscope is required for any high end analysis. Differe
 
 
 ## address any issues to 
-Hap.Yan@unt.edu
+Hao.Yan@unt.edu
